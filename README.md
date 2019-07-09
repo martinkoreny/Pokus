@@ -1,2 +1,2 @@
 # Pokus
- prvni
+ toto je první pokus s GutHub
